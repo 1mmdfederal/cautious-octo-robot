@@ -199,7 +199,7 @@ sleep 1
 echo "And All Member Indonesia Security Lite"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
-sh LITESPAM.sh
+py cautious-octo-robot.py
 fi
 
 
